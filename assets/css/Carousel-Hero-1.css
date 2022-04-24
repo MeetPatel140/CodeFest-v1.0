@@ -1,0 +1,46 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../../assets/img/hero-background-nature.jpg?h=b1bb1a1aec7ba354fa8d939ddf58061c');
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/hero-background-photography.jpg?h=dc2858b63c84c167bca64d96f4ae6679');
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/hero-background-technology.jpg?h=a6826ee44e917a51561dbda208e32a4c');
+}
+
+div.jumbotron.hero-food {
+  background-image: url('../../assets/img/hero-background-food.jpg?h=917adf7910947ec40f8bd62bfba2ce2b');
+}
+
+div.jumbotron.hero-music {
+  background-image: url('../../assets/img/hero-background-music.jpg?h=3c86dbf697e1764b36156e37c5afe50b');
+}
+
+div.jumbotron.hero-travel {
+  background-image: url('../../assets/img/hero-background-travel.jpg?h=ea393e2b0bf400e88463fc40ccd6a653');
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
