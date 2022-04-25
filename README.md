@@ -1,2 +1,4 @@
 # CodeFest-v1.0
 Fragrance of South is a brand of restaurants. To show how Fragrance of South has its own dining &amp; dishes, We added the logo first and then full name below it to show the bright logo&amp;name together. The rounded image with brownish colored background and a tree identifies us the south indian forests &amp; culture and their amazing dishes like dosa, idli, etc..  The landing page is designed keeping in mind both types of customers First Time Visitors Regular Visitors  This layout allows the visitors to see what are the amazing dishes that Fragrance of South offers.  The Brownish, White &amp; Black work well in contrast to the backgrounds on the website.
+
+You can see this Report: https://docs.google.com/document/d/19SBuyI9OGysJm6XhQqxiylXmo1j0rFKVQiUc5neXTls/edit?usp=sharing
